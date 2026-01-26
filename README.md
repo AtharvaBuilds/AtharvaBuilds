@@ -1,16 +1,16 @@
-## Hi there 👋
+## 🛠 Tech Arsenal
 
-<!--
-**AtharvaBuilds/AtharvaBuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Programming & Development
+![Languages](https://skillicons.dev/icons?i=java,python,cpp,javascript)
 
-Here are some ideas to get you started:
+### Web Development
+![Web](https://skillicons.dev/icons?i=html,css,angular,bootstrap,react)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend & Databases
+![Backend](https://skillicons.dev/icons?i=spring,mysql,mongodb)
+
+### Tools & Platforms
+![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode)
+
+### AI / ML
+![AI](https://skillicons.dev/icons?i=python,tensorflow)
